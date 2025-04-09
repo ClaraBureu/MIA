@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "nlp_2"
+version = "0.1.0"
+description = "Natural language processing II practice"
+authors = ["Alex Barria <alex@tryolabs.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pip = "^25.0.1"
+dotenv = "^0.9.9"
+langchain = "^0.3.23"
+langchain-community = "^0.3.21"
+pypdf = "^5.4.0"
+pinecone = "^6.0.2"
+sentence-transformers = "^4.0.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

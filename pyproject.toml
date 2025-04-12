@@ -2,7 +2,7 @@
 name = "nlp_2"
 version = "0.1.0"
 description = "Natural language processing II practice"
-authors = ["Alex Barria <alex@tryolabs.com>"]
+authors = ["Clara Bureu <bureuclara@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -15,7 +15,6 @@ pypdf = "^5.4.0"
 pinecone = "^6.0.2"
 sentence-transformers = "^4.0.2"
 langchain-pinecone = "^0.2.5"
-
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"

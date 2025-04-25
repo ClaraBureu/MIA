@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nlp_2"
+name = "rag"
 version = "0.1.0"
 description = "Natural language processing II practice"
 authors = ["Clara Bureu <bureuclara@gmail.com>"]

@@ -1,0 +1,7 @@
+gymnasium==0.29.1
+torch==2.7.1
+numpy>=1.26.0
+matplotlib==3.7.1
+ipython==8.13.2
+moviepy==1.0.3
+nn_builder==1.0.5

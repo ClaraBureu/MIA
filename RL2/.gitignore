@@ -1,0 +1,10 @@
+# venv
+.venv
+.venv-tf-gym/
+
+
+# Environment variables
+.env
+
+# CV files
+*CV*.pdf
